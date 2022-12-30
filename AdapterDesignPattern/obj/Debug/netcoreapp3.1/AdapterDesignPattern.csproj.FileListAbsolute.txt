@@ -1,0 +1,14 @@
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.exe
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.deps.json
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.json
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.dev.json
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Users\ftumer\source\repos\DesignPatters\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.genruntimeconfig.cache
